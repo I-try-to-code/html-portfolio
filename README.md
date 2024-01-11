@@ -1,2 +1,2 @@
 # html-portfolio
-my first htmp website that i am hosting. 
+my first html website that i am hosting. 
